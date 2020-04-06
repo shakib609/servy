@@ -1,0 +1,8 @@
+<h1>Show <%= bear.name %></h1>
+
+<dl>
+    <dt>Type</dt>
+    <dd><%= bear.type %></dd>
+    <dt>Hibernating</dt>
+    <dd><%= bear.hibernating %></dd>
+</dl>
